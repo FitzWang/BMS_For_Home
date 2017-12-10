@@ -2,3 +2,5 @@ This folder is for our 18650 based mini BMS.
 
 
 version 0.0
+
+Contactor Stretagy,SOC Calculate
